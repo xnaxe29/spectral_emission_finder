@@ -1,0 +1,40 @@
+# -- Set whether wavelengths are given in `air` or `vacuum`
+#    If `air`, the code will convert the wavelengths to vacuum
+#wl_type = 'air' or 'vac'
+#
+vac
+#
+#Fontsize in GUI screen
+#
+10
+#
+#Name of the data file
+#
+combined_J0025+1145_nir_OIII_5007.fits
+#
+#Redshift of the absorber
+#
+2.4797729618 
+#
+#Name of the file in which output parameters are saved
+#
+emission_data.txt
+#
+#Setting up range for the 2D box for which the GUI will be created
+#
+#Lower y(arcsec) limit
+#
+-5
+#
+#Upper y(arcsec) limit
+#
+-2
+#
+#Lower x(wavelength) limit
+#
+16390
+#
+#Upper x(wavelength) limit
+#
+16690
+#
